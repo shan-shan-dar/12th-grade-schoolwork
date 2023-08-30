@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Class
+comment1.params=n
+comment1.target=Class(int)
+comment2.params=students
+comment2.target=void\ enrollBatch(Student[])
+comment3.params=
+comment3.target=void\ studentAges()
+comment4.params=teacher
+comment4.target=void\ assignClassTeacher(Teacher)
+numComments=5

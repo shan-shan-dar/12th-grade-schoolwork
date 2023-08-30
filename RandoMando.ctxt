@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RandoMando
+comment1.params=arr\ elem
+comment1.target=boolean\ checkElements(int[],\ int)
+comment2.params=
+comment2.target=int[]\ random52()
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=School
+comment1.params=name
+comment1.target=School(java.lang.String)
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=n
+comment3.target=boolean\ addClass(int)
+comment4.params=name
+comment4.target=boolean\ addTeacher(java.lang.String)
+comment5.params=name
+comment5.target=boolean\ addStudent(java.lang.String)
+numComments=6

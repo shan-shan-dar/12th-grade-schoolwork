@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Matrix
+comment1.params=
+comment1.target=double[][]\ input()
+comment1.text=\n\ input\ asks\ the\ user\ to\ enter\ the\ size\ of\ the\ matrix\ and\ its\ elements\n
+comment2.params=tab
+comment2.target=void\ print(double[][])
+comment2.text=\n\ print\ prints\ the\ contents\ of\ the\ desired\ matrix\ in\ the\ proper\ format\n
+comment3.params=tab
+comment3.target=double[][]\ transpos\u00E9(double[][])
+comment3.text=\n\ transpos\u00E9\ returns\ another\ matrix\ that\ is\ the\ transposed\ version\ of\ the\ given\ matrix\ \n
+comment4.params=tab
+comment4.target=void\ transpose2(double[][])
+comment4.text=\n\ transpose2\ returns\ alters\ and\ returns\ the\ same\ matrix\ as\ its\ transposed\ version\n
+comment5.params=tab
+comment5.target=double\ addDiag(double[][])
+comment5.text=\n\ addDiag\ adds\ all\ the\ diagonal\ elements\ of\ a\ square\ matrix\ without\ repetition\n
+comment6.params=tab\ level
+comment6.target=double[][]\ rotate(double[][],\ int)
+comment6.text=\n\ rotate\ rotates\ the\ elements\ of\ a\ given\ matrix\ based\ on\ the\ desired\ level\n\ level\ 1\ only\ rotates\ the\ outer\ edges\ of\ the\ matrix\n\ level\ 2\ rotates\ the\ outer\ edge\ and\ the\ second\ most\ outer\ edge\n\ etc.\n
+comment7.params=tab1\ tab2
+comment7.target=double[][]\ mult(double[][],\ double[][])
+comment7.text=\n\ mult\ simply\ performs\ matrix\ multiplication\ and\ returns\ the\ product\ matrix\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

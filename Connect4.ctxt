@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Connect4
+comment1.params=row\ col
+comment1.target=void\ initBoard(int,\ int)
+comment2.params=
+comment2.target=void\ printBoard()
+comment3.params=
+comment3.target=char\ player()
+comment4.params=j
+comment4.target=int\ lowestBlank(int)
+comment5.params=j
+comment5.target=boolean\ update(int)
+comment6.params=
+comment6.target=char\ check()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

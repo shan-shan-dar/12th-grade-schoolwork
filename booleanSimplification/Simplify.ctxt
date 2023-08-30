@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Simplify
+comment1.params=
+comment1.target=void\ input()
+comment1.text=\n\ Takes\ manual\ term\ by\ term\ input\ from\ the\ user\ and\ updates\ the\ canonical\ form\ matrix\ accordingly\n
+comment2.params=
+comment2.target=void\ readFile()
+comment2.text=\n\ Takes\ file\ input\ from\ the\ user\ and\ updates\ the\ canonical\ form\ matrix\ accordingly\n
+comment3.params=
+comment3.target=void\ printCanonical()
+comment3.text=\n\ Prints\ the\ contents\ of\ the\ canonical\ form\ matrix\ in\ a\ legible\ format\n\ Also\ changes\ the\ placeholder\ '\\'\ to\ '+'\ or\ '.'\ \n
+comment4.params=
+comment4.target=int[][]\ makeKmap()
+comment4.text=\n\ Generates\ a\ kmap\ matrix\ from\ the\ given\ canonical\ form\ of\ expression\n
+comment5.params=kmap
+comment5.target=void\ resolveKmap(Kmap)
+comment5.text=\n\ Resolves\ the\ kmap\ using\ Kmap\ class\n
+comment6.params=a\ b
+comment6.target=int\ index(char,\ char)
+comment6.text=\n\ Returns\ the\ correspoding\ kmap\ index,\ given\ a\ pair\ of\ variable\ states\n\ eg.\ AB\ ->\ 0\ since\ AB\ is\ the\ 0th\ column\ of\ the\ kmap\n\ \ \ \ \ Cd\ ->\ 1\ since\ Cd\ is\ the\ 1st\ row\ of\ the\ kmap\n\ \ \ \ \ etc.\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\n\ Handles\ the\ user\ interface\n
+numComments=8

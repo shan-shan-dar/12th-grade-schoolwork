@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Life
+comment1.params=
+comment1.target=void\ print()
+comment2.params=l\ b
+comment2.target=void\ initiate(int,\ int)
+comment3.params=y\ x
+comment3.target=void\ flip(int,\ int)
+comment4.params=y\ x
+comment4.target=int\ neighbor(int,\ int)
+comment5.params=
+comment5.target=void\ update()
+comment6.params=ln\ br\ rn
+comment6.target=void\ play(int,\ int,\ int)
+numComments=7
